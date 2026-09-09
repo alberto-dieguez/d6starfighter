@@ -1,4 +1,4 @@
-[D6STARFIGHTER](https://alberto-dieguez.github.io/D6STARFIGHTER) 
+[D6STARFIGHTER](https://alberto-dieguez.github.io/d6starfighter) 
 
 
 🚀 D6 Starfighter
